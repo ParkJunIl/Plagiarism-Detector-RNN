@@ -26,9 +26,8 @@ This project will be broken down into three main notebooks:
 * Train model and deploy it using SageMaker.
 * Evaluate deployed classifier.
 
----
+**Setup Instructions**
 
-**Setup Instructions
 The notebooks provided in this repository are intended to be executed using Amazon's SageMaker platform. The following is a brief set of instructions on setting up a managed notebook instance using SageMaker, from which the notebooks can be completed and run.
 
 * Log in to the AWS console and create a notebook instance
